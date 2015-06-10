@@ -13,7 +13,7 @@ namespace testweb
         {
             if (!IsPostBack)
             {
-
+                Response.write("aaa");
             }
         }
     }
