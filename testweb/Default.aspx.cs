@@ -16,6 +16,8 @@ namespace testweb
             if (!IsPostBack)
             {
                 Response.Write("aaa");
+
+                string ii = "";
             }
         }
     }
